@@ -6,10 +6,10 @@
     "configurations": [
 
         {
-            "name": "example",
+            "name": "client.py",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/example.py",
+            "program": "${workspaceFolder}/qwen_tts/client.py",
             "console": "integratedTerminal"
         }
     ]
